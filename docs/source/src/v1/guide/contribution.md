@@ -1,7 +1,7 @@
 ---
 title: 贡献指南
 type: guide
-order: 3
+order:1000000
 ---
 
 ## 贡献指南
